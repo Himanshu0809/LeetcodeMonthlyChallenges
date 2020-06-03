@@ -1,4 +1,4 @@
-package LeetcodeMayChallenge;
+package LeetcodeJuneChallenge;
 
 public class deleteNodeInLinkedList {
 
