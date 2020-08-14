@@ -1,4 +1,4 @@
-package Questions.leetCode;
+package LeetcodeAugustChallenge;
 
 public class designHashSet {
 	class MyHashSet {
